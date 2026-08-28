@@ -1,7 +1,6 @@
-# Titulo del proyecto
+# Proyecto clase
 
 Contenido 
-Hacer un cambio
 
 ## Subtitulo
 
